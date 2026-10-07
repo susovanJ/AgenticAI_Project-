@@ -60,7 +60,7 @@ if question:
     # -----------------------------
 
     prompt = f"""
-        You are a Wikipedia research agent.
+        You are a Wikipedia research ChatBot.
 
         Use this Wikipedia page:
 
