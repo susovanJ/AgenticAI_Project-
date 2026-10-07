@@ -1,0 +1,275 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595 842 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 3686
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 50 792 Tm (This is the initial content for java.pdf.) Tj T* ET
+BT 1 0 0 1 50 772 Tm  T* ET
+ 
+
+Q
+q
+0.0 0.0 595 842 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 50 767 Tm
+(Java is a high\055level\054 class\055based\054 object\055oriented programming language that is designed to have as few implementation dependencies as possible\056 It was originally developed by Sun Microsystems and released in 1995\056 Java applications are typically compiled to bytecode that can run on any Java Virtual Machine \050JVM\051 regardless of the underlying computer architecture\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 747 Tm
+T*
+ET
+BT
+1 0 0 1 50 727 Tm
+(Key Features of Java\072) Tj
+T*
+ET
+BT
+1 0 0 1 50 707 Tm
+(1\056 Platform Independent\072 Java code runs on any device that has the JVM installed\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 687 Tm
+(2\056 Object\055Oriented\072 Everything in Java is treated as an object which helps in modular programming and code reusability\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 667 Tm
+(3\056 Simple and Familiar\072 Java is designed to be easy to learn and use\054 especially for programmers familiar with C\053\053\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 647 Tm
+(4\056 Secure\072 Java provides a secure environment for executing code by confining program execution through its runtime environment\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 627 Tm
+(5\056 Robust\072 Java emphasizes early checking for possible errors\054 runtime checking\054 and eliminates error\055prone situations by using strong memory management\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 607 Tm
+(6\056 Multithreaded\072 Java supports multithreading\054 which allows concurrent execution of two or more threads for maximum CPU utilization\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 587 Tm
+(7\056 Distributed\072 Java is designed for the distributed environment of the internet\054 enabling programs to share data and resources\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 567 Tm
+T*
+ET
+BT
+1 0 0 1 50 547 Tm
+(Basic Syntax\072) Tj
+T*
+ET
+BT
+1 0 0 1 50 527 Tm
+(\055 Java programs start execution with the main\050\051 method\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 507 Tm
+(\055 Case\055sensitive language where keywords and identifiers matter\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 487 Tm
+(\055 Statements end with a semicolon\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 467 Tm
+T*
+ET
+BT
+1 0 0 1 50 447 Tm
+(Example\072) Tj
+T*
+ET
+BT
+1 0 0 1 50 427 Tm
+(\140\140\140java) Tj
+T*
+ET
+BT
+1 0 0 1 50 407 Tm
+(public class HelloWorld \173) Tj
+T*
+ET
+BT
+1 0 0 1 50 387 Tm
+(    public static void main\050String\133\135 args\051 \173) Tj
+T*
+ET
+BT
+1 0 0 1 50 367 Tm
+(        System\056out\056println\050\042Hello\054 World\041\042\051\073) Tj
+T*
+ET
+BT
+1 0 0 1 50 347 Tm
+(    \175) Tj
+T*
+ET
+BT
+1 0 0 1 50 327 Tm
+(\175) Tj
+T*
+ET
+BT
+1 0 0 1 50 307 Tm
+(\140\140\140) Tj
+T*
+ET
+BT
+1 0 0 1 50 287 Tm
+T*
+ET
+BT
+1 0 0 1 50 267 Tm
+(Java Ecosystem\072) Tj
+T*
+ET
+BT
+1 0 0 1 50 247 Tm
+(\055 Java Development Kit \050JDK\051\072 The full\055featured SDK for Java development\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 227 Tm
+(\055 Java Runtime Environment \050JRE\051\072 Provides libraries and JVM to run Java applications\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 207 Tm
+(\055 Integrated Development Environments \050IDEs\051 like Eclipse\054 IntelliJ IDEA\054 and NetBeans\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 187 Tm
+T*
+ET
+BT
+1 0 0 1 50 167 Tm
+(Common Java APIs\072) Tj
+T*
+ET
+BT
+1 0 0 1 50 147 Tm
+(\055 Java Collections Framework) Tj
+T*
+ET
+BT
+1 0 0 1 50 127 Tm
+(\055 Java IO) Tj
+T*
+ET
+BT
+1 0 0 1 50 107 Tm
+(\055 Java Networking) Tj
+T*
+ET
+BT
+1 0 0 1 50 87 Tm
+T*
+ET
+BT
+1 0 0 1 50 67 Tm
+(Java is widely used for building enterprise\055scale web applications\054 Android apps\054 and large systems due to its stability and scalability\056) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000385 00000 n 
+0000004123 00000 n 
+0000004230 00000 n 
+trailer
+<<
+/Size 8
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+4337
+%%EOF

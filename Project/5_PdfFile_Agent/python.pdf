@@ -1,0 +1,742 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 6
+/Kids [ 4 0 R 8 0 R 12 0 R 15 0 R 19 0 R 22 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 3336
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 50 792 Tm  T* ET
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 50 791.8898 Tm
+(Python is a high\055level\054 interpreted programming language known for its readability and simplicity\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 771.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 751.8898 Tm
+(It supports multiple programming paradigms\054 including procedural\054 object\055oriented\054 and functional programming\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 731.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 711.8898 Tm
+(Python\047s syntax is designed to be clear and concise\054 making it an excellent choice for beginners and experienced developers alike\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 691.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 671.8898 Tm
+(The language was created by Guido van Rossum and first released in 1991\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 651.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 631.8898 Tm
+(Python has a large standard library that supports many common programming tasks\054 such as file I\057O\054 system calls\054 and internet protocols\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 611.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 591.8898 Tm
+(It is widely used for web development\054 data analysis\054 artificial intelligence\054 scientific computing\054 and automation\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 571.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 551.8898 Tm
+(Python features dynamic typing and automatic memory management\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 531.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 511.8898 Tm
+(It is cross\055platform\054 running on Windows\054 macOS\054 Linux\054 and other operating systems\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 491.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 471.8898 Tm
+(Python\047s package ecosystem is vast\054 with tools like pip enabling easy installation of third\055party libraries\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 451.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 431.8898 Tm
+(Popular Python libraries include NumPy for numerical computing\054 Pandas for data manipulation\054 and Matplotlib for data visualization\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 411.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 391.8898 Tm
+(The Python community is vibrant and active\054 contributing to a wealth of open\055source software\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 371.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 351.8898 Tm
+(Python supports integration with other languages like C\054 C\053\053\054 and Java\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 331.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 311.8898 Tm
+(Its interactive shell allows for quick testing and debugging of code snippets\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 291.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 271.8898 Tm
+(Python uses indentation to define code blocks\054 enhancing readability\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 251.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 231.8898 Tm
+(The language supports exception handling and has robust error management\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 211.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 191.8898 Tm
+(Python\047s functions are first\055class objects\054 supporting higher\055order functions and closures\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 171.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 151.8898 Tm
+(List comprehensions provide a concise way to create lists\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 131.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 111.8898 Tm
+(Generators allow for efficient iteration over large datasets\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 91.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 71.8898 Tm
+(Python supports object\055oriented programming with classes and inheritance\056) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 10 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1059
+>>
+stream
+GasbZ6#R]$&;BTK(%2p9J6f?1-1Nie'=`#8!*+RkEZ("7>t3n:+D59S^G!*;CcRf*HP$DK!;$!JRi++Da#TUYf*($L$GV%)cs0td6*iOT@!.+Z=0FfhmXlE/cggG'3ICf*l9//K=T*7ci8%nYa[\6DPK$kC6>OooNY/".)eV]I'Z:G=]pSZ2+D(c-0%t@>#-745'.i;\>TP:qFUV'op=(jf(uJOM."+]B.lK+,F5)&ai4G5aPYjq6:Sc-9&4fOYUn(?3bU@da@+r`S6+\PK$[Qfm>dX@THNlK7hur`>e7Q1"J`RpLQi`2[SH%u-ji7H5/3CCC\,m=2LuJ[3Kl,(,]uI908MSmE/Kh;H6W"=9)k=F4H&S,PEo?odJEE77kbqmQ.I_2ugB-iPN/ujfg,M_"jJct9P2,X)s#IBTUNCcPl*^KjU4CB/VTVhG?]];E1POb_`N@U,s)f#E\)\67&>cuF*HS;709;7CqR@j_-d"G\<mL3^D"6oRoC^A;2k\EMN>@3(X#nia1Kh0]mH[!7le%,L;V=gPcuKWK`?DHm`[iQ/;qjZC(_Woq:Q@oGLI@usoCWR*$Vj2[-F,;eE*Y#%C>ak&R4-4%MEjK[kC(B_0!W`Wmn]hn=j3#>GY[PiJtaNVZA!Mg9R1lQ.2nu=l_kXb+Cdughb*/8:Y9\Ja6_n`bbcA(Y%D#7cKhHn-Y)P)^]4.O9`+:F)a"mS,6&X`QUb2dK2?Lk6JCU;rK[h],/lC!eZgfmS?3tllB%lCbb9<%ok]qR+S))/'XqRZCP"foBJVbLQ<K5^KdA#Zj&c`)/E(&uc\m'4F[uoRM>,g[g>G:L)-`JA)9,Tu3_\b),P:!:/7gQ@cd["&&^.,JJ_&+.*VMTV/`;^O.^#ESHP_ihAl;2VLM$,kRWY?g4OsXOir(4'7Z8Y?q?EmF..oWX6o,'[o,Q!Qjm*@73j-lAe(/>$"an@ffC:_]$MQI0fST7F9`!p;dKBHFMpCg:C#orKp;p>i;%+hCHLB!oOCNJNFjc=,$+u1Fa8=TjGj=qcE@S58,\A$^:K69&Iu<gNZi~>
+endstream
+endobj
+10 0 obj
+<<
+/F1 11 0 R
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 11 0 R
+/F1-0 14 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 3285
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 50 791.8898 Tm  T* ET
+BT 1 0 0 1 50 771.8898 Tm (Its versatility makes it suitable for small scripts and large applications.) Tj T* ET
+BT 1 0 0 1 50 751.8898 Tm  T* ET
+BT 1 0 0 1 50 731.8898 Tm (Overall, Python is a powerful and flexible language widely adopted across industries.) Tj T* ET
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 50 706.8898 Tm
+(Python is a high\055level\054 interpreted programming language known for its readability and simplicity\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 686.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 666.8898 Tm
+(1\056 Python supports multiple programming paradigms including procedural\054 object\055oriented\054 and functional programming\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 646.8898 Tm
+(2\056 Python has dynamic typing and automatic memory management\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 626.8898 Tm
+(3\056 Its syntax allows programmers to express concepts in fewer lines of code than languages such as C\053\053 or Java\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 606.8898 Tm
+(4\056 Python supports modules and packages\054 which encourages program modularity and code reuse\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 586.8898 Tm
+(5\056 The Python interpreter and extensive standard library are available in source or binary form without charge for all major platforms\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 566.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 546.8898 Tm
+(Basic Concepts\072) Tj
+T*
+ET
+BT
+1 0 0 1 50 526.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 506.8898 Tm
+(6\056 Variables do not need explicit declaration to reserve memory space\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 486.8898 Tm
+(7\056 The declaration happens automatically when you assign a value to a variable\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 466.8898 Tm
+(8\056 Python uses indentation to indicate a block of code\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 446.8898 Tm
+(9\056 The standard file extension for Python files is \056py) Tj
+T*
+ET
+BT
+1 0 0 1 50 426.8898 Tm
+(10\056 Python\222s interpreter reads and executes code line by line\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 406.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 386.8898 Tm
+(Control Structures\072) Tj
+T*
+ET
+BT
+1 0 0 1 50 366.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 346.8898 Tm
+(11\056 Conditional statements \050if\054 elif\054 else\051 control the flow of execution\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 326.8898 Tm
+(12\056 Loops include for and while\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 306.8898 Tm
+(13\056 Loop control statements include break\054 continue\054 and pass\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 286.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 266.8898 Tm
+(Data Types\072) Tj
+T*
+ET
+BT
+1 0 0 1 50 246.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 226.8898 Tm
+(14\056 Built\055in data types include int\054 float\054 bool\054 str\054 list\054 tuple\054 set\054 and dict\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 206.8898 Tm
+(15\056 Lists are mutable ordered collections\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 186.8898 Tm
+(16\056 Tuples are immutable ordered collections\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 166.8898 Tm
+(17\056 Dictionaries are mutable key\055value pairs\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 146.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 126.8898 Tm
+(Functions\072) Tj
+T*
+ET
+BT
+1 0 0 1 50 106.8898 Tm
+T*
+ET
+BT
+1 0 0 1 50 86.8898 Tm
+(18\056 Functions are defined using the def keyword\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 66.8898 Tm
+(19\056 Functions can have default arguments\056) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 17 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1006
+>>
+stream
+GasbY9lo&I&;KZL(%5#n0W[f;robq*XgU#\ltOt=/eG7M@,Z_?J6)I61SEeIS4[<ERK9eN([n]B5_1A].(WcgJ^7!e[O=t:=DgsZnemaSGZ]Fi]K??4Qqq^K?fZETpNK_S9Zh(07:US(ep-teY,r(>DCpKNXp&n$7["-TdKbiQ9=)SpF'B/e"Kns&LUbF/Y^F:XqMa.q]A!(2H#fFQoaC<Zn]=?XJHVR8h)_F@1u$n@92oC67I%D(nbq\#K.H(I*PL*#Hbdcu%pYO_bM1X/+D;u/M%cSeULS3.WBF?2#-oS+-=rG^:7<1`)49BITsguOf$ukHFTsUke\4m3enlOR_Y/@BJo:/KK2Wd(i\+ns)J";\+?^Ytn%kISpt$12CGSd7P@5[F;l[f?=haV9(:ttfVh!E]Q^uBJeE/bT.:j#2NleF(ml>?K@FsnqGVS>j^ud)MKiI[PXQF#oAj'0R3M't@fLSGL'5))9X3'W6S("HF[P7$0\]sZp$B!*H<?hd0R)!Ir<`^.K:'SRMEek*(f4<lJ/?UDj!Jto/bI_8$43Tmm5i$jnYmuf,D&ap:B%XQH+%SFN`NsZD+6D32-VpN7eVZhY^Kc@?+acJH8*rL\hn$E+oeH';%.^ngg.#'LW1)jnp^tSlq+?d2&^1Q[ruA\:7^K>B+BY9Z2.a!UK5Z0m(N3%!):cs<d+6Tpp)(h"jnME[`qr245qFj1Lg`<`YY5p87?0n&"1ZmhUKt5KV_RlK[t_qC<7]XKCbL,aHQ:3KJ!(tqJp#,FbODrtBf0Vj>0pk+H$hi*+o`C[11g.6L7L2Hi7>A$OM6[R(dh<q:fZ<SM9a%jee%IGb1>AgXX8P10XJ/)(5hqdlKY[EU.=NojU+Nl>Dg6e-CdhJ`-9W@'JX60A$76*Yq:BYDiK3`1OSA+0>kg_?r41%2<-jT"KT.IWDiBCaZ9hGTh$&&2`\TL3*<X[rVlS!rd'NF$Mo\2\hPtIh9l3^h+e&(s8U[N++=7uCP2-~>
+endstream
+endobj
+17 0 obj
+<<
+/F1 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 18 0 R
+/F1-0 21 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 3250
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 50 791.8898 Tm (37. Large supportive community.) Tj T* ET
+BT 1 0 0 1 50 771.8898 Tm (38. Rich set of tutorials and documentation.) Tj T* ET
+BT 1 0 0 1 50 751.8898 Tm (39. Open-source nature encourages continuous improvement.) Tj T* ET
+BT 1 0 0 1 50 731.8898 Tm  T* ET
+BT 1 0 0 1 50 711.8898 Tm (Development Tools:) Tj T* ET
+BT 1 0 0 1 50 691.8898 Tm  T* ET
+BT 1 0 0 1 50 671.8898 Tm (40. Popular IDEs include PyCharm, VS Code, Jupyter Notebook.) Tj T* ET
+BT 1 0 0 1 50 651.8898 Tm  T* ET
+BT 1 0 0 1 50 631.8898 Tm (Tips:) Tj T* ET
+BT 1 0 0 1 50 611.8898 Tm  T* ET
+BT 1 0 0 1 50 591.8898 Tm (41. Use virtual environments for package management.) Tj T* ET
+BT 1 0 0 1 50 571.8898 Tm (42. Follow PEP 8 for style guidelines.) Tj T* ET
+BT 1 0 0 1 50 551.8898 Tm (43. Write tests to ensure code quality.) Tj T* ET
+BT 1 0 0 1 50 531.8898 Tm  T* ET
+BT 1 0 0 1 50 511.8898 Tm (Examples:) Tj T* ET
+BT 1 0 0 1 50 491.8898 Tm  T* ET
+BT 1 0 0 1 50 471.8898 Tm (44. Hello World: print\("Hello, World!"\)) Tj T* ET
+BT 1 0 0 1 50 451.8898 Tm (45. For loop: for i in range\(5\): print\(i\)) Tj T* ET
+BT 1 0 0 1 50 431.8898 Tm (46. Function: def add\(a, b\): return a + b) Tj T* ET
+BT 1 0 0 1 50 411.8898 Tm  T* ET
+BT 1 0 0 1 50 391.8898 Tm (Summary:) Tj T* ET
+BT 1 0 0 1 50 371.8898 Tm  T* ET
+BT 1 0 0 1 50 351.8898 Tm (47. Python is versatile and easy to learn.) Tj T* ET
+BT 1 0 0 1 50 331.8898 Tm (48. Widely used in diverse domains.) Tj T* ET
+BT 1 0 0 1 50 311.8898 Tm (49. Strong support for integration with other languages.) Tj T* ET
+BT 1 0 0 1 50 291.8898 Tm (50. Continuously evolving with new features and libraries.) Tj T* ET
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 50 266.8898 Tm
+(Python is a popular high\055level programming language known for its simplicity and readability\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 246.8898 Tm
+(It supports multiple programming paradigms\054 including procedural\054 object\055oriented\054 and functional programming\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 226.8898 Tm
+(Python is widely used for web development\054 data analysis\054 artificial intelligence\054 scientific computing\054 and automation\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 206.8898 Tm
+(The language was created by Guido van Rossum and first released in 1991\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 186.8898 Tm
+(Python\047s syntax emphasizes code readability with its use of significant indentation\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 166.8898 Tm
+(It has a comprehensive standard library that supports many common programming tasks\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 146.8898 Tm
+(Python supports dynamic typing and automatic memory management\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 126.8898 Tm
+(Popular implementations include CPython\054 Jython\054 IronPython\054 and PyPy\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 106.8898 Tm
+(Python uses indentation to define code blocks instead of braces or keywords\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 86.8898 Tm
+(Functions in Python are defined using the def keyword\054 followed by the function name and parentheses\056) Tj
+T*
+ET
+BT
+1 0 0 1 50 66.8898 Tm
+(Python supports various data types\054 including integers\054 floats\054 strings\054 lists\054 tuples\054 sets\054 and dictionaries\056) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/Contents 23 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 24 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+23 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1992
+>>
+stream
+Gat%#9lo>Q'#!I0oIVj<H=H[pSiL\OEL"#'`4MeEA?4k@!h*Y\6%B+q,]eJ6<WeRV[UmbP7A<0_YL3=Fotq,3i=o>SdgQ4@YMmOf's,\gh88I:h$'luiT'dHT@`[%/%@]qWt27Tn)&V>&*j8QgiAP\(^WO9'Zi6eAAO6M0Yob)_SN,SG!.ngaePUYO2E:Pn1_WKmObNT_"qt>5d(Y_J*!se7]$;[66s(=l"#])'9(!e!I@sXZJPa)KX1Z"GlVnE8KU'R0l5N@!Y`5bi1P4$#>%a*+>4$@h\0t`5TA^qe#!6jEB9cu6_iisW0\Jdo]WDeh^ntOrZ[Hm'e'HV0T;-?nk&QWTku4[C351D_%%iS!%&<cPrG$&]/kIFpB1tSQa%c+GoT29"@KE('[9i!dG/5%[@X7NT%jSpG3J`d>&_)M_4Nn2gCXsRnhloP$$%5j>@;AS[KQ4F'Ks%J:tPk:16G(0^q4nqarV441-7L)%rM$*%Zn!\!>CES]mP;#q/$4oI(bVUUjAjDM!2JAErl#s6N7N5%!o/-Z6q=9;lUe(,Kbjk#L^rmPfLBIm68@I<=#'IAE5"(-8/npP[249=<u9iLEsJ$4[g.YL2&;mRt_KpT$pM>A]>ouaBJA6Yslg7oWu9-V=8YGn&9#`&o6@ij(9j1&5g="V]C':s%IrdX"ddk#pi)F@.334f@\7Q9FNA@N"2ZnE@=(UM3pF/%tCmo@@%lLd/<F5(AF,CIXj7$Tj\9#l6qe.:dcP@,tL0Zf760MaMP\UhVC)?c@oORWT@P2bM&MU6_FZ>\]@+b$qcu^"o'GX'uoSo65sp;?&86])ZBL9I2C%Xf+-8XeO&XR%:D[FYd>\m7d[_iXJ775-Ia=.4#FbjFqi]t_!raP>qU-pSqjqWJJ#T7eA,uNUC6(+;_u-7T0g26@CHfcF,?@=FB>jUDS2eNq#'8l]"@e9(Aa[+8c"M^HE6TBdW;cC,=\(B's-J)MigA%JE,kGi&>8c`Cg51SqU39qj;3IV(?%'/'S-\<67UeKnPRX&hY.99_V1f<t"s?W@LuHLG;],@mKcEU8Uu,J7<ilh+FUN;7SCWj:\^M%Z,>1j*Eqe%ePX$i'ue1f='D,8l]FgeI!kbD%*i4G*.]=8:[#^;D2CI+.);f32q""h0rpSM"eLKNhqM\I/;mtK(df7[pW'0*uT$3mTgfql:)8\?$=*5ml-uAQG:-\Yc;4&-HE%el`kkF7lrprqR.@iUBC'kNkndM;.QCd%-Xrp]J5/8rFmOp/K:oNP.0K]0.$8g$%kFu_0[c*:7<Gl,Npme.S+Wh<K%hb)o=0(BQ:qMAZG#5I,ZF4c*W"I`'Bm0%Z=+k_s#kY.JlN-X?&F+4)J^IkD.Al6]WI3:2r"079\LM"0r_R:DUAQQ2D$;S:B#E]JO1BI13[Pe\3p4r<?I!-2*<+AuTdrNsn4C3u\5>2Ip[TM'0LC[KGJ;3`3$A/0,Xe_6MR!Z.<QC"M9d!M$I<h9/keB3Xu1D:1sFT*,+^ue?S`^QPR>^Q:)C@+o=Ta(p^UUg>FZ.FAT0<RV(F;]aV+jk[N19^OUR>A0+QdK1WuM?4Hj6,MC]8g&1[<cW_/GDtN&XcL`qeFn1dp05^QBFcoY>1?)Lp<!iHFO2(V^6QP,SI&k8fG<%B-HNr<8<;p^U,rlr'((Y5]U82*A&:O&sTVLiCmcu!r='^u,Wj&(&';Vg1_WHZWk3-s6=Z'^roT1mg`RaM1CB*]L-.uOkha!u*(en@1_qsN$EC",9QcC\oVpNR]S^+XkZ;0@&U\j(Ed5J!S\Bi"nbYe+u-85/`ebYLD<WeYIIO3E<'>3FI7!5I0(W)R)hYs,li9K!SHKm?p)'3@`SkV\_LQ_5CH+[53U!pIY_*/aLSn('4CTZ**:b`e"9Q5o&c.BN*bbUK2eM(\4==nFD&%-7gG]F2QGc;_@-a8fTJW68`p<+h?5p`N01E0L49@_29d0&\`B-Mmp-H@JrJa`RGMSX/t~>
+endstream
+endobj
+24 0 obj
+<<
+/F1 25 0 R
+>>
+endobj
+25 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 26
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000147 00000 n 
+0000000196 00000 n 
+0000000429 00000 n 
+0000003817 00000 n 
+0000003924 00000 n 
+0000004031 00000 n 
+0000004231 00000 n 
+0000005382 00000 n 
+0000005415 00000 n 
+0000005523 00000 n 
+0000005760 00000 n 
+0000009098 00000 n 
+0000009206 00000 n 
+0000009408 00000 n 
+0000010507 00000 n 
+0000010540 00000 n 
+0000010648 00000 n 
+0000010885 00000 n 
+0000014188 00000 n 
+0000014296 00000 n 
+0000014498 00000 n 
+0000016583 00000 n 
+0000016616 00000 n 
+trailer
+<<
+/Size 26
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+16724
+%%EOF
