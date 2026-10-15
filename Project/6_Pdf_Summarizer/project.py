@@ -23,7 +23,7 @@ st.divider()
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-#============= PDF UPLOAD ----------------
+#============= PDF UPLOAD ===================
 uploaded_file = st.file_uploader(
     "📕 Upload PDF",
     type=["pdf"]
