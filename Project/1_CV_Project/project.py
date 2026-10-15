@@ -1,8 +1,8 @@
 import streamlit as st
 from openai import OpenAI
 from dotenv import load_dotenv
+from fpdf import FPDF
 import os
-
 
 load_dotenv()
 
@@ -195,6 +195,7 @@ if generate_button:
             # SAVE IN SESSION
             # ------------------------------------------------
             st.session_state["cv"] = cv
+            st.session_state["cv_name"] = name
             st.success("✅ CV generated successfully!")
 
         except Exception as e:
@@ -209,6 +210,7 @@ if "cv" in st.session_state:
     st.divider()
     st.header("📄 Your Professional CV")
     cv = st.session_state["cv"]
+    cv_name = st.session_state["cv_name"]
 
     # ------------------------------------------------
     # DISPLAY CV
@@ -217,12 +219,47 @@ if "cv" in st.session_state:
         st.markdown(cv)
 
     # ------------------------------------------------
-    # DOWNLOAD CV
+    # CREATE PDF
+    # ------------------------------------------------
+
+    pdf = FPDF()
+    pdf.add_page()
+    pdf.set_auto_page_break(auto=True, margin=15)
+    pdf.set_font("Helvetica", size=11)
+
+    # Default font emoji ba special character support kore na,
+    # tai text ke safe kore nichhi
+    safe_cv = cv.replace("**", "").replace("#", "")
+    safe_cv = safe_cv.replace("•", "-").replace("–", "-").replace("—", "-")
+    safe_cv = safe_cv.encode("latin-1", "replace").decode("latin-1")
+
+    for line in safe_cv.split("\n"):
+
+        if line.strip() == "":
+            # Faka line
+            pdf.ln(4)
+
+        elif line.strip().isupper():
+            # UPPERCASE line mane section heading, tai bold
+            pdf.set_font("Helvetica", style="B", size=13)
+            pdf.multi_cell(0, 8, line.strip(), new_x="LMARGIN", new_y="NEXT")
+            pdf.set_font("Helvetica", size=11)
+
+        else:
+            pdf.multi_cell(0, 6, line, new_x="LMARGIN", new_y="NEXT")
+
+    pdf_bytes = bytes(pdf.output())
+
+    # ------------------------------------------------
+    # DOWNLOAD BUTTONS
     # ------------------------------------------------
 
     st.download_button(
-        label="⬇️ Download CV",
-        data=cv,
-        file_name=f"{name}_CV.txt",
-        mime="text/plain"
+        label="⬇️ Download CV (PDF)",
+        data=pdf_bytes,
+        file_name=f"{cv_name}_CV.pdf",
+        mime="application/pdf",
+        key="pdf_btn"
     )
+
+    
